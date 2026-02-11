@@ -33,11 +33,3 @@ MySQL Database → Analytical Views → Power BI Dashboard
 - SQL Views
 - DAX Measures
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone Repository
-2️⃣ Setup Database
-3️⃣ Connect Power BI
-Open Financial_Performance.pbix
-
-Update MySQL connection string
